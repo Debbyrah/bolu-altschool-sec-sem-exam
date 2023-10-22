@@ -11,7 +11,7 @@ export default function ErrorBoundary({ error, resetErrorBoundary }) {
           marginTop: "20px",
         }}
       >
-        Something went wrong!!!
+         OOps........Something went wrong!!!
       </p>
 
       <button className="btn_error" onClick={resetErrorBoundary}>

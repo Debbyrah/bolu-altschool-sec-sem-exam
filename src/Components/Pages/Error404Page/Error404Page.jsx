@@ -15,7 +15,7 @@ export default function Error404Page() {
               </div>
 
               <div className="contant_box_404">
-                <h3 className="h3 color">This page does not exist 🙄</h3>
+                <h3 className="h3 color">The page you are looking for does not exist 🙄</h3>
                 <button
                   className="error-home-btn"
                   onClick={() => navigate("/")}
