@@ -1,0 +1,28 @@
+.Error_message {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.btn_error {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.1rem;
+    border-radius: 36px;
+    width: 200px;
+    padding: 1rem;
+    font-weight: bold;
+    transition: 0.3s;
+    background-color: #610C9F;
+    margin: 20px auto;
+}
+
+.btn:hover {
+    opacity: 0.7;
+}
